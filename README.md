@@ -42,16 +42,6 @@ Uploaded manually in Colab.
 7. Predict on new data  
 
 
-## How to Run (Google Colab)
-
-1. Open `intrusion_detection.ipynb` in Google Colab  
-2. Upload `nsl_kdd.csv`  
-3. Run cells from top to bottom  
-4. Model file will be saved as:
-   - `best_model.pkl`
-   - `preprocessor.pkl`
-
-
 ## Requirements
 pandas
 numpy
